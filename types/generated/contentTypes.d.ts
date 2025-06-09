@@ -555,6 +555,7 @@ export interface ApiCertificationCertification
     draftAndPublish: true;
   };
   attributes: {
+    alt: Schema.Attribute.Text;
     certificate: Schema.Attribute.Media<
       'images' | 'files' | 'videos' | 'audios',
       true

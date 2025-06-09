@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mission_visions",
+  "info": {
+    "singularName": "mission-vision",
+    "pluralName": "mission-visions",
+    "displayName": "missionVision"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mission": {
+      "type": "text"
+    },
+    "vision": {
+      "type": "text"
+    }
+  }
+}

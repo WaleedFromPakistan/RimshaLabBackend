@@ -11,10 +11,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "mission": {
-      "type": "text"
+    "title": {
+      "type": "string"
     },
-    "vision": {
+    "description": {
       "type": "text"
     }
   }
